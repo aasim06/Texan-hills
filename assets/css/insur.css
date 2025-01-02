@@ -10103,7 +10103,7 @@ ul {
 }
 
 .contact-page__call-number:hover {
-  color: var(--insur-primary);
+  color: #797979;
 }
 
 .contact-page__email {
@@ -10115,7 +10115,7 @@ ul {
 }
 
 .contact-page__email:hover {
-  color: var(--insur-primary);
+  color: #797979;
 }
 
 .contact-page__location-text {
@@ -18416,7 +18416,7 @@ body.boxed-wrapper {
   display: block;
   background-color: #121415;
   border-radius: var(--insur-bdr-radius);
-  padding: 37px 40px 32px;
+  padding: 37px 20px 32px;
 }
 
 .footer-widget-three-contact__title {
