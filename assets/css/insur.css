@@ -4180,7 +4180,7 @@ ul {
   position: absolute;
   right: 20px;
   top: -25px;
-  background-color: var(--insur-primary);
+  background-color: #ff494a;
   padding: 17.5px 18.4px;
   border-radius: 10px;
   -webkit-transition: all 500ms ease;
